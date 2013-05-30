@@ -20,7 +20,7 @@ On Heroku
     git clone git://github.com/maxdemarzi/neo_beer.git
     heroku apps:create neobeer
     heroku addons:add neo4j
-    replace your database with the one in this repo (neobeer.zip)
+    replace your database with https://dl.dropboxusercontent.com/u/57740873/neobeer.zip
     git push heroku master
 
 See it running live at http://neobeer.heroku.com
